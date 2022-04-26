@@ -5,4 +5,5 @@
 ![JavaScript](https://img.shields.io/badge/-JavaScript-%23F7DF1C?style=for-the-badge&logo=javascript&logoColor=000000&labelColor=%23F7DF1C&color=%23FFCE5A)
 ![Git](https://img.shields.io/badge/-Git-F05032?style=for-the-badge&logo=git&logoColor=ffffff)
 
-[![Miss-gif's GitHub stats](https://github-readme-stats.vercel.app/api?username=miss-gif)](https://github.com/anuraghazra/github-readme-stats)
+[![Miss-gif's GitHub stats](https://github-readme-stats.vercel.app/api?username=miss-gif)](https://github.com/miss-gif/github-readme-stats)
+[![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=miss-gif)](https://github.com/miss-gif/github-readme-stats)
