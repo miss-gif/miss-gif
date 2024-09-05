@@ -29,6 +29,8 @@
 
 [![GitHub stats](https://github-readme-stats.vercel.app/api?username=miss-gif&show_icons=true&theme=radical)](https://github.com/anuraghazra/github-readme-stats)
 
+<p><img align="center" src="https://github-readme-streak-stats.herokuapp.com/?user=miss-gif&" alt="miss-gif" /></p>
+
 ## 🔥 최근 프로젝트
 
 - [포트폴리오 모음](https://portfolio-final-neon-psi.vercel.app/) : 작업한 프로젝트를 정리했습니다.
