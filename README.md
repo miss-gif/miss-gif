@@ -28,7 +28,7 @@
 
 [![GitHub stats](https://github-readme-stats.vercel.app/api?username=miss-gif&show_icons=true&locale=kr&bg_color=ffffff00&hide_border=true&title_color=000000&hide_title=true)](https://github.com/anuraghazra/github-readme-stats)
 
-<a href="https://git.io/streak-stats"><img src="https://streak-stats.demolab.com?user=miss-gif&theme=transparent&hide_border=true&border_radius=0&locale=ko&card_width=467" alt="GitHub Streak" /></a>
+<p><img align="center" src="https://github-readme-streak-stats.herokuapp.com/?user=miss-gif&" alt="miss-gif" /></p>
 
 ## 🔥 최근 프로젝트
 
